@@ -1,5 +1,9 @@
 @import "https://unpkg.com/open-props";
 
+.w3m-modal {
+   z-index: 2147483647
+}
+
 .wrapper {
   min-height: 100%;
   width: 100%;
